@@ -61,7 +61,7 @@ a {
     max-width: 700px;
     margin: -1px auto 10px auto;
     border: 1px solid #222;
-    background-color: #1111114a;
+    background-color: transparent;
 }
 
 @media (max-width: 700px) {
