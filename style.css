@@ -27,6 +27,10 @@ a {
     text-decoration: dotted underline;
 }
 
+#center {
+    margin: auto;
+}
+
 #header {
     top: 0;
     z-index: 1;

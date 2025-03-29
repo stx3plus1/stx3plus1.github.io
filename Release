@@ -1,0 +1,33 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Date: Sat, 29 Mar 2025 11:39:49 +0000
+Description: silly stx repo!!
+Label: cdstx4 repo
+Origin: cdstx4
+Suite: stable
+Version: 1.0
+MD5Sum:
+ faac5936d24507669e74061df6edc2b9              636 Packages
+ 3c0af9ffaa1abc042e213765cb924976              495 Packages.bz2
+ f4695ace28600cc005b134faae38bb36              524 Packages.xz
+ e1d655ee0acbe40168f729881934cde3              449 Packages.zst
+ 28c48ae62efd7bd95ff2e484087f0bbb              188 Release
+SHA1:
+ 625f2e9c6713d3bb43f755cfb51026511182f098              636 Packages
+ 62c3f874cb5e87707d51c9a67ed532a75f118590              495 Packages.bz2
+ 018f7fb98d93abce6fe5fada4e08c750a7e0ed77              524 Packages.xz
+ c493c012645ad0d0ffa2378b8d0eade643752130              449 Packages.zst
+ fdff73a18a0bbd5d8a88b9b94293056a325d5652              188 Release
+SHA256:
+ db4def4c83d6a4069e7e720d7efd972656f548ec76759f1d1c6acc2ef2f49dbb              636 Packages
+ b56078c400fb41302203dac7baaa42bcd98dc7e4d7c14ecb64ab988cbab69844              495 Packages.bz2
+ 9ada1e77ee80c5daf32faf4996e576019462883ee435fdf021489887da08d2c2              524 Packages.xz
+ 82bd95c01a6790c93b79341a7d03cfb6d29dad2612afc61eda2d331252926e39              449 Packages.zst
+ 42d1a8c6b06bcbc3a08b8219f68ddfb27f1a314a84831f875d0bcfbb09ae32d4              188 Release
+SHA512:
+ 3157dd48eb8900f95e90b0c1517b2c1381b3b5cc2ff643ab1bc9e713efec1b13fc93174fdb2b1e07d6e4383c57936b995f20a2b815eaa39c3a438d827328b1e5              636 Packages
+ f454ea0438470a0ebfdbf2dc4f856e70703a1526a59535c0838b040eaf1f2f1164049141fbda64028463e9d1b7a7b848e592a468c92b1ae5d48d8bf4a071d436              495 Packages.bz2
+ ed279f350e1e0eb90ea2ee1b7e22c345ff7d8c6e11decce94920756d34c4cc9d48be6d2dbd5ac386632cce13ed427260ed89d93872353b1a3251d558e158c6ac              524 Packages.xz
+ 0a4eda24aebcbc1488db20129279524bc9e015dbdfacbb42916f4fe9b16d865ba0b55ee699d8e23398ea3a62c3e82d21e05d3574683a3fd772fbeeb9ea713710              449 Packages.zst
+ 84085365bad3a723e0594f6dfaf3ba649c221b379916503c1feb2f48dc3814714d5366b60e6b888549218208ba02a15d1369873af8d69c87cc3752eab8218b56              188 Release
