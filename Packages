@@ -3,14 +3,14 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Utilities
 Maintainer: st4rz
-Installed-Size: 2480
+Installed-Size: 2508
 Depends: firmware (>= 5.0), firmware (<< 11.0)
 Filename: ./pool/com.st4rzy.stxtool_1.0_iphoneos-arm.deb
-Size: 1873398
-MD5sum: 0cd7c15be150219249b5b6743210947d
-SHA1: f95de64b06ff40de32f6b16dde9375e302b9e4e5
-SHA256: 08756344eb861e0dd5c5ce6b2800693085bf3d403ec1752149862f645ef2e20b
-SHA512: 460e89f8e343c10df9ac9db77448e8b305935b96020f484874db84b62fb0116da48456f9f3df5b7879edc61c2f9103e9b7039eec3f4b5610f7e06f6f957c9c4d
+Size: 2316000
+MD5sum: c2072d5f46c96cf73e5901f948a26e4a
+SHA1: 9c62b23e20257ed82c7d744e22bda291d98b2cfa
+SHA256: e3c890f3ac1549f9238899b770cb8f24cba5594d56acb882b4486e6dd3ea3474
+SHA512: da4be92e234cf20f60f2182c3f65c00aada67a1781e74b05aa298109c5e3dcdb1b663b0006d6971ec129ecda6144c9a007d54a7bd2a4e07c166a3b5f178602b9
 Description: basic utilities to kickstart a jailbreak experience
 Name: stxtool
 Author: st4rz
