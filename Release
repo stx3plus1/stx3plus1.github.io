@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Sat, 29 Mar 2025 14:09:00 +0000
+Date: Sat, 29 Mar 2025 14:14:41 +0000
 Description: silly stx repo!!
 Label: cdstx4 repo
 Origin: cdstx4
@@ -12,22 +12,22 @@ MD5Sum:
  3f78d50fda9db325ba34abdd983906cb              487 Packages.bz2
  9d62b43704035946317ec61056c197ab              524 Packages.xz
  1394d9118150218a2570773205f5ce78              447 Packages.zst
- f35bc250b09a83b2c61cedac46aa8c23              188 Release
+ f4a8bc4a72f76ea81c05b8e1f7f72418              188 Release
 SHA1:
  34e52463dab344eca71c4e085db7088f5279d5d1              636 Packages
  7fbef0b13893a68b9ab3b1cfc087904618ad91c7              487 Packages.bz2
  12a3ec02b98d89a5bd30c8860b46925cde4f55fc              524 Packages.xz
  dedc8fd46bf93f11c28c466e660ea74fadea9e8a              447 Packages.zst
- 42ecd6a2924eaafe679992755d10222f8ca5c31b              188 Release
+ 54a6431506189a20518a05b8d6bd11d58d965077              188 Release
 SHA256:
  b2cb9ca450f3dd5d60753e08d413e5769b22628be81b61bb9cb9d5856cfaf18f              636 Packages
  47296179f0d805a704721d8dfd99a0fbaf90ad0ab8dbddd0e29a9be38a43ffc4              487 Packages.bz2
  f394a6a7e5bcd82ef5356a0cab77f0428482c7e250ddb10f36d0251b5198b551              524 Packages.xz
  acde2dd945d282452c71d2658e1fe612e37805cdb0b814cf6fbac7dbc71a21e0              447 Packages.zst
- f694749437dd59936f574e4dfc76a934bf3113c2cc652abcab521a7440c28572              188 Release
+ 6b4a038dd3fda2115a12eff42de826de0c0c7279d96da56a9765a358a32e91b0              188 Release
 SHA512:
  db69031550d7d2c7b903ad46acc97a2005f08b744d93994a3e3f1682cdd6b2d1d66fad896f6d5d9a3671f0c1b077b35754d1f60ecc0bac59505ed8f4022dc684              636 Packages
  6cb3789c65b58da66516009f9330c7f23ff28eba12f77539c155aae9861341af85c79ea6a9ff141fe5ccf5a908e0ecc6f1a7585b000a93b7fc1d7dab9e781429              487 Packages.bz2
  c28d536b659766b0acc7376e28c23f5b93e9993a0d91e1069fc345af62deef9ae6ed7581016d454a9e97f49f9c85487391404baf588506814a9be24d9842e9d1              524 Packages.xz
  1cd10083daddd207f9edef0acbae41fcbceaa635a8d65a6618fe5af0df8db71a9225ca9e7b0da24eb0a26dae1f7d481ecfddf310d91bd2900b0bb35f0fc64ce5              447 Packages.zst
- 2e00ecd0bdbd1015e4d539bad39e832f9f29941ab0ed520f66a3bb8b452d6eb2b70f1ed245412cda4a2294b70e212c416aba4e2779702da316e5755e46faca8b              188 Release
+ 7a9a25fc64db8786f0a0c6b51bad3944ed4326e1cfbe85d91a116597f4737181c4794593c5864f91db34b80bcea5970b5394b49dee732029dba400e91559ea13              188 Release

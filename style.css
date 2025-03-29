@@ -52,7 +52,7 @@ a {
 }
 
 #item {
-    width: fit-content;
+    width: fit-content(1px);
     margin-right: 5px;
     padding-right: 5px;
     border-right: 1px solid #333;
