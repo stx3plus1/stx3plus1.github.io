@@ -1,17 +1,34 @@
-Package: com.st4rzy.stxtool
+Package: xyz.cdstx4.lsless
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: st4rz
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./pool/xyz.cdstx4.lsless_0.1_iphoneos-arm.deb
+Size: 79450
+MD5sum: 0cf7f63519056330595ac47980d09051
+SHA1: d753e05b38e692917762bb86f301df8100949224
+SHA256: 84c99c0e5c30ecd5ae34a9f10b327f0dbcb3cc8c26aa1a34f3f5324eb84e3e74
+SHA512: 4330f26f7f0da0513a9ae2509a9a27488ae1b44d05f406a2e4c2c7d79a53724f1a39a293d85f59e557d37f71cb6e6cdf9a3f79248550f0738750226df98ab5d2
+Description: alternate android-ed lockscreen layout
+Name: lsless
+Author: st4rz
+
+Package: xyz.cdstx4.stxtool
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Utilities
 Maintainer: st4rz
-Installed-Size: 2508
+Installed-Size: 3320
 Depends: firmware (>= 5.0), firmware (<< 11.0)
-Filename: ./pool/com.st4rzy.stxtool_1.0_iphoneos-arm.deb
-Size: 2316000
-MD5sum: c2072d5f46c96cf73e5901f948a26e4a
-SHA1: 9c62b23e20257ed82c7d744e22bda291d98b2cfa
-SHA256: e3c890f3ac1549f9238899b770cb8f24cba5594d56acb882b4486e6dd3ea3474
-SHA512: da4be92e234cf20f60f2182c3f65c00aada67a1781e74b05aa298109c5e3dcdb1b663b0006d6971ec129ecda6144c9a007d54a7bd2a4e07c166a3b5f178602b9
-Description: basic utilities to kickstart a jailbreak experience
+Filename: ./pool/xyz.cdstx4.stxtool_1.0_iphoneos-arm.deb
+Size: 3177922
+MD5sum: 7df1d3dc987ee65dde7fc9d26dd6253e
+SHA1: 6d02751ec2d281327826bb8e273d4d717bd16769
+SHA256: e38ef19c2d1a3f9ff7f00af98e0d666ce0a230a059f8e81fef5e31426bdaf0cb
+SHA512: 3c1389b999b702270a56522812a9a725082eedc5c6e79b2674ef334e27ad9fae3f5535757154278754701638e51e4d441b0309ec9f7ad229253b3ef1ec7a293d
+Description: basic jailbreak utilities in a taped up lump
 Name: stxtool
 Author: st4rz
 
