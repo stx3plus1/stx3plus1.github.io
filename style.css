@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100&family=Fragment+Mono&display=swap');
-
 html, body {
     min-height: 100vh;
 }
@@ -13,13 +11,12 @@ html {
 body {
     margin: 0;
     background-size: cover;
-    background-image: url("bgs/bg4k.png");
-    font-family: 'Fragment Mono', monospace;
+    background-color: #060606;
+    font-family: 'MS Sans Serif', monospace;
 }
 
 h1, h2, h3, h4, h5, h6 {
     text-align: center;
-    font-family: 'Doto', monospace;
 }
 
 a {
@@ -29,6 +26,12 @@ a {
 
 #center {
     margin: auto;
+    display: table;
+    text-align: center;
+}
+
+#badge {
+    padding: 1px;
 }
 
 #header {
@@ -39,22 +42,17 @@ a {
     text-align: left;
     position: sticky;
     max-width: 100vw;
-    padding: 1px 10px 1px 10px;
+    padding: 0 10px 0 10px;
     background-color: #2222224a;
     border-bottom: 1px solid #222;
     box-shadow: 0px -50px 70px white;
-
-    -webkit-backdrop-filter: blur(25px);
-    -webkit-transform: translate3d(0, 0, 0);
-    
-    backdrop-filter: blur(25px);
-    transform: translate3d(0, 0, 0);
 }
 
 #item {
-    width: fit-content(1px);
     margin-right: 5px;
+    width: fit-content;
     padding-right: 5px;
+    height: fit-content;
     border-right: 1px solid #333;
 }
 
@@ -71,11 +69,5 @@ a {
 @media (max-width: 700px) {
     #content { 
         border: 1px solid transparent;
-    }
-}
-
-@media (max-width: 2000px) {
-    body {
-        background-image: url("bgs/bgfhd.png");
     }
 }
