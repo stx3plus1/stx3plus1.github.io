@@ -1,16 +1,16 @@
 Package: xyz.cdstx4.lsless
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.0-1
 Section: Tweaks
 Maintainer: st4rz
-Installed-Size: 284
+Installed-Size: 292
 Depends: mobilesubstrate (>= 0.9.5000), firmware (<< 7.0), firmware (>= 5.0)
-Filename: ./pool/xyz.cdstx4.lsless_1.0_iphoneos-arm.deb
-Size: 85824
-MD5sum: e0c14dd7233d891f5d4db18e9a1fd787
-SHA1: 58f6b92096177225c75584eff86f1f08c637a777
-SHA256: eb163c288c763877019e5263515c9b519bfea9741bba736a285d2ba12f890c1d
-SHA512: 1618980f281948890342e7618c3c7645798e10e1bcfc3d31cf3f488f6fb90da3cff543d9a8fa5d2067606ab207fcf56c427e58136215f55483477b41132eec55
+Filename: ./pool/xyz.cdstx4.lsless_1.0-1_iphoneos-arm.deb
+Size: 93560
+MD5sum: 36a0579213e6471e3a609c64c21710f0
+SHA1: 58461e5025a6b309e55011736792020d6d8f106c
+SHA256: b03d170bf94ccf8a77797120ef30dd23c3e8fbe72e69e000a660b1ac3106b8e2
+SHA512: f2ccd480817a7405d5cabddcc9bfd6ad683e01200a623cd447900695d0fe07f0875fc579e95354916c4e275584d7a8eafe7c449d7fda2ed4da62332b86092257
 Description: alternate android-ed lockscreen layout
 Name: lsless
 Author: st4rz
